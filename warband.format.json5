@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "magic": "prayers of sigmar",
       "isLarge": "true",
       "name": "John Doe",
       "exp": 4, // Gained experience. Doesn't include starting experience
