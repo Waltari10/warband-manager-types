@@ -1,0 +1,13 @@
+{
+   specialSkills: [''], // For example, skaven special skills
+   source: 'Town cryer', //tags?
+   broheimGrade: '1a',
+   name: 'Cult of the possessed',
+   heroes: [''], // Array of UID of heroes available for warband
+   henchmen: [''], // Array of uid of henchmen available for warband
+   hiredSwords: [''], // Array of hired sword uuis,
+   dramaticPersonae: [''],
+   maxUnits: 15,
+   description: 'These guys do these things and are from here and there',
+   special: '' // Anonymosity for orcs for example
+}
